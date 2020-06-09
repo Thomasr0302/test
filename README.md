@@ -1,3 +1,3 @@
 # Modification fichier readme
 modification avant pull
-modification apres pull
+modification apres pull , puios receptionné
